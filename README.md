@@ -152,10 +152,4 @@ Tested on:
 -   Safari (14.x)
 -   Internet Explorer(11.0)
 
-## Contributors
--   [Sourav Roy Choudhury](https://github.com/Souravroych)
--   [Khyati Mahajan](https://github.com/khyatimahajan)
--   [Samira Shaikh](https://github.com/sshaikh2)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
